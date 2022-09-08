@@ -42,5 +42,6 @@ We then create a function to display the list called displayLinkedList to print 
 the head will start the first node, and while p->next = NULL and depending on the number and condition, it will print the next number or NULL
 `dipsplayList(HEAD);`
 
+** Program Resource: ``https://prepinsta.com/c-program/singly-linked-list/#:~:text=Implementation%20of%20Singly%20Linked%20List,be%20the%20next%20to%20it``
 
 
